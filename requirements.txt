@@ -1,9 +1,0 @@
-Needed Libraries :
-
-streamlit 
-streamlit_option_menu
-PIL
-sklearn
-pandas
-json
-os
