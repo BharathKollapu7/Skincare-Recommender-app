@@ -220,7 +220,7 @@ def Skin_care():
         **Have a great day ahead :)**
         """)
     
-    st.info('Credit: Created by Bharath Chandra Kollapu')
+    st.info('Credit: Created by Bharath Chandra Kollapu and Tanmay Ravulapalli')
 
 def skincare_recommendation_page():
     st.title("Get Recommendation")
